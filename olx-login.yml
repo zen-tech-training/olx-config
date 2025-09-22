@@ -2,7 +2,7 @@ spring:
   application:
     name: OLX-Login
   datasource:
-      url: jdbc:mysql://localhost:3306/olx-login
+      url: jdbc:mysql://localhost:3306/olx-users
       driver-class-name: com.mysql.cj.jdbc.Driver
       username: root
       password: Root@12345
